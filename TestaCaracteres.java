@@ -12,6 +12,7 @@ public class TestaCaracteres {
 		System.out.println(valor);
 		
 		String palavra = "alura cursos online de tecnologia";
+		String palavra1 = "testanto o Git"
 		System.out.println(palavra);
 		
 		palavra = palavra + 2020;
